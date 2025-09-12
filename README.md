@@ -7,7 +7,7 @@ Miembros: Ronquillo, Santillan, Montiel, Navarro
 Base datos 
 
 Usuario 
- Edad 
+Edad 
 sección 
 
  
@@ -18,13 +18,10 @@ Tipos
 Producto 
 Cantidad 
 Costo 
- 
-
- 
 
 ¿Para qué sirven? 
-
-Sirven para ayudar a dar una práctica a los niños de instituciones educativas de 5-15 años y personas de la tercera edad en asilos.  
+Sirven para ayudar a dar una práctica a los niños de instituciones 
+educativas de 5-15 años y personas de la tercera edad en asilos.  
 
 #Venta de libros
 DROP DATABASE IF EXISTS Tienda_digital;
